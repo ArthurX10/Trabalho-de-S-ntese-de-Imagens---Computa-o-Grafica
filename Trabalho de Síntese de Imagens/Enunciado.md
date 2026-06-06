@@ -14,6 +14,5 @@ FreeGLUT, etc.); Principais desafios técnicos; Screenshots; Link do projeto no 
 
 
 """
-Varios objetos, 2 Fontes de Luz. 
-
+Varios objetos, 2 Fontes de Luz.
 """
